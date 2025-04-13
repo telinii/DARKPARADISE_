@@ -1,0 +1,12 @@
+{
+	"name": "cursor",
+	"plugin-id": "Mouse",
+	"sid": 913622320694880,
+	"singleglobal-inst": {
+		"type": "cursor",
+		"properties": {},
+		"uid": 16,
+		"sid": 885457833266366,
+		"tags": ""
+	}
+}

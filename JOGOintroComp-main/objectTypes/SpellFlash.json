@@ -1,0 +1,81 @@
+{
+	"name": "SpellFlash",
+	"plugin-id": "Sprite",
+	"sid": 138421022619002,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Fade",
+			"name": "Fade",
+			"sid": 659832813739505
+		}
+	],
+	"effectTypes": [
+		{
+			"effectId": "brightness",
+			"name": "Brilho"
+		}
+	],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 670,
+						"height": 372,
+						"originX": 0.5,
+						"originY": 0.504951,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 555961,
+						"collisionPoly": {
+							"points": [
+								0.5044776119402985,
+								0.1639784946236559,
+								0.5985074626865672,
+								0.1827956989247312,
+								0.6328358208955224,
+								0.239247311827957,
+								0.6626865671641791,
+								0.30913978494623656,
+								0.6119402985074627,
+								0.7795698924731183,
+								0.5492537313432836,
+								0.8333333333333334,
+								0.508955223880597,
+								0.8360215053763441,
+								0.4417910447761194,
+								0.8333333333333334,
+								0.4014925373134328,
+								0.8172043010752689,
+								0.3611940298507463,
+								0.7661290322580645,
+								0.33880597014925373,
+								0.6935483870967742,
+								0.3194029850746269,
+								0.32526881720430106,
+								0.3940298507462687,
+								0.1935483870967742
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 471397970237587,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

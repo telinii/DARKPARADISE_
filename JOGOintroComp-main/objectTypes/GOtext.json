@@ -1,0 +1,10 @@
+{
+	"name": "GOtext",
+	"plugin-id": "Text",
+	"sid": 206893059286370,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": []
+}
