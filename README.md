@@ -1,6 +1,7 @@
 # DARK PARADISE
 
-<img src="PRINT(jogoFACEF)" alt="Exemplo imagem">
+<img src="" a![PRINT(jogoFACEF)](https://github.com/user-attachments/assets/5336d3ae-4dc6-4b96-91b8-74053db94a23)
+lt="Exemplo imagem">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
