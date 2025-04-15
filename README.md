@@ -6,15 +6,11 @@ Um clássico tema Dark Medieval, um atirador, muitos inimigos.                  
 > Um simples jogo 2D feito via Construct 3 (https://www.construct.net/en)
 
 
-## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
+### Em relação aos controles: 
+## BARRA DE ESPAÇO PARA REINICIAR
+## BOTÃO ESQUERDO PARA ATIRAR
+## SETAS DO TECLADO PARA ANDAR PELO CENÁRIO
 
 ## 📫 Contribuindo para <DARK PARADISE>
 
