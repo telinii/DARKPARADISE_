@@ -12,7 +12,7 @@ Um clássico tema Dark Medieval, um atirador, muitos inimigos.                  
 ## BOTÃO ESQUERDO PARA ATIRAR
 ## SETAS DO TECLADO PARA ANDAR PELO CENÁRIO
 
-## 📫 Contribuindo para <DARK PARADISE>
+## 📫 Contribuindo para DARK PARADISE
 
 Para contribuir com DARK PARADISE, siga estas etapas:
 
